@@ -19,13 +19,8 @@
 </div>
 
 -----
-C#                  ██████████░░░░░░░░░░░░░░░░░ 30%     
-ASP.NET Core MVC    ████░░░░░░░░░░░░░░░░░░░░░░░ 20%         JavaScript          ██░░░░░░░░░░░░░░░░░░░░░░░░░ 10% 
-                                                            CSS                 ██░░░░░░░░░░░░░░░░░░░░░░░░░ 10%  
-                                                            HTML                ██░░░░░░░░░░░░░░░░░░░░░░░░░ 10%       
-
-MSSQL               ████░░░░░░░░░░░░░░░░░░░░░░░ 20%  
-
+!(https://github-readme-stats.vercel.app/api?username=EfeAkkurt&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAkkurt&theme=dark&layout=compact)  
 Ayrıca, **Dapper** gibi ORM teknolojilerine aşinayım.
 
 -----
