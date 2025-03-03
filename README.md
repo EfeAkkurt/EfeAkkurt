@@ -19,11 +19,8 @@
 </div>
 
 -----
-GET https://api.github.com/users/EfeAkkurt  
 
 ![Efe Akkurt GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EfeAkkurt&show_icons=true&theme=dark&count_private=true)  
-
-![Efe Akkurt GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EfeAkkurt&show_icons=true&theme=dark)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAkkurt&theme=dark&layout=compact)  
 
