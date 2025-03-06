@@ -22,7 +22,7 @@
 
 ![Efe Akkurt GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EfeAkkurt&show_icons=true&theme=dark&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAkkurt&theme=dark&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAkkurt&theme=dark&layout=compact) 
 
 Ayrıca, **Dapper** gibi ORM teknolojilerine aşinayım.
 
