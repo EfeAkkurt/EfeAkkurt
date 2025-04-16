@@ -3,7 +3,6 @@
 🔹 **İstanbul'da yaşıyorum.**
 🔹 **Staja açığım.**
 🔹 **[efeakkurtofficial@gmail.com](mailto:efeakkurtofficial@gmail.com)**
-🔹 **Şu anda React Native için JS-CSS-REACT öğreniyorum**
 
 ---
 
