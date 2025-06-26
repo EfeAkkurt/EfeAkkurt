@@ -41,7 +41,7 @@
 
 ## About Me
 
-🔹 Detail-oriented, analytical, and passionate about development and debugging  
+-Detail-oriented, analytical, and passionate about development and debugging  
 -----
 
 ## Contact Me
